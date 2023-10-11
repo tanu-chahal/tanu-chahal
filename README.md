@@ -25,7 +25,5 @@ Let's connect and explore the endless possibilities in the tech world! You can f
 The tech world is full of wonders, 🌟 and I'm always eager to learn more. When I'm not coding, you can find me exploring new technologies or diving into some sci-fi reads. 📚 Let's geek out together!
 
 Thanks for stopping by and checking out my work. Feel free to explore my repositories and leave your feedback. Happy coding! 🎉
-<!---
-tanu-chahal/tanu-chahal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Badges
+[![An image of @tanuchahal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tanuchahal)](https://holopin.io/@tanuchahal)
