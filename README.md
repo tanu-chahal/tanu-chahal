@@ -25,5 +25,4 @@ Let's connect and explore the endless possibilities in the tech world! You can f
 The tech world is full of wonders, 🌟 and I'm always eager to learn more. When I'm not coding, you can find me exploring new technologies or diving into some sci-fi reads. 📚 Let's geek out together!
 
 Thanks for stopping by and checking out my work. Feel free to explore my repositories and leave your feedback. Happy coding! 🎉
-### Badges
-[![An image of @tanuchahal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tanuchahal)](https://holopin.io/@tanuchahal)
+
