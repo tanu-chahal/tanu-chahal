@@ -1,7 +1,7 @@
 [![](https://visitcount.itsvg.in/api?id=tanu-chahal&icon=5&color=1)](https://visitcount.itsvg.in)
 # Hi, Tanu Chahal this side 👋🏻
 
-I'm a passionate Full-Stack Engineer. 🚀 I love working with the MERN (MongoDB, Express, React, Node.js) Stack + Next.js, and apart from this I've got a knack for C, C++, and Java too!
+I'm a passionate Full-Stack Software Engineer. 🚀 I love working with the MERN (MongoDB, Express, React, Node.js) Stack + Next.js, and apart from this I've got a knack for C, C++, and Java too!
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tanu-chahal&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact) <br/>
