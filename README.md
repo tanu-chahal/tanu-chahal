@@ -1,7 +1,3 @@
-[![](https://visitcount.itsvg.in/api?id=tanu-chahal&icon=5&color=1)](https://visitcount.itsvg.in)
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=tanu-chahal&label=Profile%20views&color=0e75b6&style=for-the-badge&color=000000" alt="Tanu Chahal' profile views" />
-</p>
 # Hi, Tanu Chahal this side 👋🏻
 
 I'm a passionate Full-Stack Software Engineer. 🚀 I love working with the MERN (MongoDB, Express, React, Node.js) Stack + Next.js, and apart from this I've got a knack for C, C++, and Java too!
@@ -25,3 +21,8 @@ Got an exciting project, collaboration idea, or just want to say hi? Feel free t
 
 Let's connect and explore the endless possibilities in the tech world! You can find me on LinkedIn [here](https://www.linkedin.com/in/tanuchahal/) 🌐
 
+[![](https://visitcount.itsvg.in/api?id=tanu-chahal&icon=5&color=1)](https://visitcount.itsvg.in)
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=tanu-chahal&label=Profile%20views&color=0e75b6&style=for-the-badge&color=000000" alt="Tanu Chahal' profile views" />
+</p>
